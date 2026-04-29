@@ -35,7 +35,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 # ╚══════════════════════════════════════╝
 BOT_TOKEN  = "8702845993:AAH_3yTfyRLwwCSX7n8wyjNpE4CocmKIuMM"
 ADMIN_IDS  = [7879101503, 8561142779]
-APP_URL    = "https://YOUR-APP-NAME.onrender.com"  # ← paste your Render URL here
+APP_URL    = "https://nft-1-yoes.onrender.com"  # ← paste your Render URL here
 PORT       = int(os.getenv("PORT", "10000"))  # Render assigns this
 SHOP_NAME  = "NFT Bazaar"
 CREATED_BY = "@owning07"
